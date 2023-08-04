@@ -7,6 +7,8 @@
 
 - <b>Data Analysis Applications Practice (AlgoExpert)</b>
   - [Program Impact Evaluation in R](https://github.com/Kamogelo23/Kamogelo223.github.io)
+  - <b>Liver Disease Project (Python)</b>
+  - [Liver Disease Prediction Using HCV Data (Machine Learning)](https://github.com/Kamogelo23/Liver-Disease-Prediction) <b><i></b></i>
 - <b>Eskom Procrument Project (Python)</b>
   - [Eskom Procrument Project (time series)](https://github.com/Kamogelo23/ESKOM_Procrument) <b><i>(Potentially NSFW)</b></i>
 - <b>Data Analysis Practice</b>
